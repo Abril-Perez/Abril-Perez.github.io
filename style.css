@@ -3,12 +3,12 @@ body{
     animation-duration:3s;
     transition:all 1s;
     animation-name:BodyChange;
-    background-color:#bbf;
+    background-color:#926ab4;
 }
 
 @keyframes BodyChange{
     50%{
-        background-color:#ccf;
+        background-color:#ae86b6;
     }
 }
 
